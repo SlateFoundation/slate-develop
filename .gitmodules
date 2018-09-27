@@ -22,3 +22,7 @@
 	path = scienceleadership-interims
 	url = git@github.com:SlateFoundation/scienceleadership-interims.git
 	branch = master
+[submodule "slate-cbl-admin"]
+	path = slate-cbl-admin
+	url = git@github.com:SlateFoundation/slate-cbl-admin.git
+	branch = develop
