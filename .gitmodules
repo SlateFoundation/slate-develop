@@ -1,0 +1,24 @@
+[submodule "slate"]
+	path = slate
+	url = git@github.com:SlateFoundation/slate.git
+	branch = develop
+[submodule "slate-cbl"]
+	path = slate-cbl
+	url = git@github.com:SlateFoundation/slate-cbl.git
+	branch = develop
+[submodule "slate-admin"]
+	path = slate-admin
+	url = git@github.com:SlateFoundation/slate-admin.git
+	branch = develop
+[submodule "slate-sbg"]
+	path = slate-sbg
+	url = git@github.com:SlateFoundation/slate-sbg.git
+	branch = master
+[submodule "scienceleadership-narratives"]
+	path = scienceleadership-narratives
+	url = git@github.com:SlateFoundation/scienceleadership-narratives.git
+	branch = master
+[submodule "scienceleadership-interims"]
+	path = scienceleadership-interims
+	url = git@github.com:SlateFoundation/scienceleadership-interims.git
+	branch = master
